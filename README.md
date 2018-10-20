@@ -8,3 +8,6 @@ on the x-axis: just f1, f2, f3, ... fn.)
 
 # Technolagies :
 R, Python
+
+# Images :
+![alt text] (https://github.com/Mohamed-Shaaban/Webscience-friendship-paradox/blob/master/Screen%20Shot%202016-02-25%20at%2011.51.56%20AM.png)
